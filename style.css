@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    
+   
+}
+
+button{
+    margin-top: 5px;
+    padding: 10px;
+    margin: 20px;
+    margin-left: 20px;
+    width: 300px;
+    background-color: black;
+    color: white;
+}
+
+table{
+    color: black;
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: 300px;
+    width: 100%;
+    outline: none;
+    text-align: center;
+}
+
+tr td{
+    border: 1px solid black;
+
+}
+
+.tbl{
+    margin: 20px;
+}
+
+td {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+  
+    padding: 20px;
+  }
+
+  input {
+    height: 10px;
+    width: 150px;
+    padding: 15px;
+  }
+  
+  .savebtn{
+    padding: 5px;
+    margin: 5px;
+    height: 40px;
+    width: 60px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+  }
